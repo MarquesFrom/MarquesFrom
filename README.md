@@ -1,8 +1,7 @@
-<p> align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://github.com/MarquesFrom><i>Alisson Marques"</i></a> e eu estudo Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
+  <h2 align="center">Meu nome é Alisson Marques<a href="https://github.com/MarquesFrom><i>Alisson Marques"</i></a> e eu estudo Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
   <p align="center">Estou em Transição de carreira , e colhendo aprendizado no Mundo da Programação como Desenvolvedor Junior
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alisson-junior-de-araujo-00881717b/"><i>Alisson Marques</i></a> 😃️</h1>
 <div align="center">
@@ -25,7 +24,7 @@
 <div align="center">
  
   <a href="https://www.instagram.com/alisson.marque.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/alisson.marques.lesskateboarding" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.facebook.com/alisson.marques.lesskateboarding" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-junior-de-araujo-00881717b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="From.marques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
