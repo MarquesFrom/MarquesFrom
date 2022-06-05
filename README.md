@@ -5,7 +5,9 @@
   <h2 align="center">Meu nome é <a href="https://github.com/MarquesFrom><i>Alisson Marques"</i></a> e eu estudo Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
   <p align="center">Estou em Transição de carreira , e colhendo aprendizado no Mundo da Programação como Desenvolvedor Junior
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alisson-junior-de-araujo-00881717b/"><i>Alisson Marques</i></a> 😃️</h1>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marques&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<div align="center">
+  <a href="https://github.com/MarquesFrom">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marques&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
