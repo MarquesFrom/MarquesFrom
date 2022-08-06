@@ -1,9 +1,9 @@
 
 <div>
-  <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é Alisson Marques<a href="https://github.com/MarquesFrom><i>Alisson Marques"</i></a> e eu estudo Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
-  <p align="center">Estou em Transição de carreira , e colhendo aprendizado no Mundo da Programação como Desenvolvedor Junior
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alisson-junior-de-araujo-00881717b/"><i>Alisson Marques</i></a> 😃️</h1>
+  <h1 align="center">Welcome Guys !</h1>
+  <h2 align="center">Me chamo Marques<a href="https://github.com/MarquesFrom><i>Alisson Marques"</i></a> estou estudando Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 
+  <p align="center">Aqui eu posto meus conteudos estudos e projetos que colaboram com meu Desenvolvimento !
+  <h1 align="center">Desenvolvedor Web Full Stack <a href="https://www.linkedin.com/in/alisson-junior-de-araujo-00881717b/"><i>Alisson Marques</i></a> </h1>
 <div align="center">
  
  <a href="https://github.com/MarquesFrom">
